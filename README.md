@@ -3,7 +3,7 @@
 Automação em Python que transforma PDFs escaneados ou bloqueados contra cópia (e imagens) em
 **texto copiável**, e opcionalmente **traduz** e **resume** o conteúdo usando uma API REST de IA.
 
-**Vídeo de demonstração:** LINK_DO_VIDEO
+**Vídeo de demonstração:** [LINK_DO_VIDEO](https://youtu.be/UrVCk56akrM)
 
 ## O problema
 
